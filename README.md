@@ -13,4 +13,4 @@ More specifically, as a group of 2, we developed the project pipeline incrementa
 - Backward Image Warping.
 - Strip-Based Panorama Construction.
 
-Our design mirrors traditional panorama stitching approaches used in early vision systems and highlights the geometric foundations behind modern automated stitching tools.
+Our design mirrors traditional panorama stitching approaches used in early vision systems and highlights the geometric foundations behind stitching tools.
