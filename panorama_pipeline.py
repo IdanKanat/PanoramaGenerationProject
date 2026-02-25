@@ -477,3 +477,4 @@ if __name__ == "__main__":
     print("\nGenerating panoramic images...")
     generate_panoramic_images(f"dump/{video_name_base}/", video_name_base,
                               num_images=num_images, out_dir=f"out/{video_name_base}", number_of_panoramas=3)
+
