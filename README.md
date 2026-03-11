@@ -29,6 +29,6 @@ The core image alignment and panorama generation pipeline is implemented in:
 
 ## Example Panoramas
 
-![Panorama Example 1](out/mt_cook/panorama01.jpg)
-![Panorama Example 2](out/mt_cook/panorama02.jpg)
+![Panorama Example 1](out/mt_cook/panorama01.jpeg)
+![Panorama Example 2](out/mt_cook/panorama02.jpeg)
 
