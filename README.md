@@ -27,3 +27,8 @@ The core image alignment and panorama generation pipeline is implemented in:
 
 - [`out/`](./out): Generated panoramic images.
 
+## Example Panoramas
+
+![Panorama Example 1](out/panorama01.jpg)
+![Panorama Example 2](out/panorama02.jpg)
+
