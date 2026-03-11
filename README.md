@@ -19,7 +19,7 @@ Our design mirrors traditional panorama stitching approaches used in early visio
 
 The core image alignment and panorama generation pipeline is implemented in:
 
-- `panorama_pipeline.py`: Contains the full feature-based image alignment pipeline, including Harris corner detection, descriptor construction, feature matching, RANSAC-based homography estimation, homography accumulation, backward warping, and panorama construction.
+- [`panorama_pipeline.py`](./panorama_pipeline.py): Contains the full feature-based image alignment pipeline, including Harris corner detection, descriptor construction, feature matching, RANSAC-based homography estimation, homography accumulation, backward warping, and panorama construction.
 
 - `utils.py`: Supporting image processing utilities and helper functions.
 
