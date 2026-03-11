@@ -21,9 +21,9 @@ The core image alignment and panorama generation pipeline is implemented in:
 
 - [`panorama_pipeline.py`](./panorama_pipeline.py): Contains the full feature-based image alignment pipeline, including Harris corner detection, descriptor construction, feature matching, RANSAC-based homography estimation, homography accumulation, backward warping, and panorama construction.
 
-- `utils.py`: Supporting image processing utilities and helper functions.
+- [`utils.py`](/utils.py): Supporting image processing utilities and helper functions.
 
-- `videos/`: Example video inputs used for panorama generation.
+- [`videos/`](./videos): Example video inputs used for panorama generation.
 
-- `out/`: Generated panoramic images.
+- [`out/`](./out): Generated panoramic images.
 
