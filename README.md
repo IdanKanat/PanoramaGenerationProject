@@ -1,7 +1,7 @@
 # Feature-Based Image Alignment & Panorama Generation Project - Intro to Computer Graphics Course
 This project implements a classical feature-based image alignment & panorama generation pipeline in Python, developed as part of the *"Introduction to Graphics, Image Processing & Computer Vision"* course at TAU’s School of Computer Science (2025–2026), during the final year of our studies. The project pipeline constructs panoramic images from a sequence of overlapping frames extracted from video by estimating geometric transformations directly from image content.
 
-To align consecutive image frames, the pipeline was implemented from scratch, covering feature detection, descriptor construction, robust image matching, homography estimation, and backward image warping.
+To align consecutive image frames, the pipeline covered feature detection, descriptor construction, robust image matching, homography estimation, and backward image warping.
 
 More specifically, as a group of 2, we developed the project pipeline incrementally, focusing on the following core components:
 
